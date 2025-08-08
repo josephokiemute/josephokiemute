@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Joseph 👋
 
-<!--
-**josephokiemute/josephokiemute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | 📊 Excel & Power BI Enthusiast | 💡 Insight-Driven Storyteller
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio! I use data to uncover patterns, solve problems, and build dashboards that drive decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Telecom Churn Analysis](https://github.com/josephokiemute/telecom-churn-analysis): Excel dashboard exploring customer churn drivers
+
+## 🛠️ Skills
+- Excel (Pivot Tables, Slicers, Dashboards)
+- Power BI (DAX, Visualizations)
+- SQL (Basic queries & joins)
+- Data Cleaning & Transformation
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/josephokiemute)
+- 📧 josephokiemute@gmail.com
+
+Thanks for visiting — more projects coming soon!
